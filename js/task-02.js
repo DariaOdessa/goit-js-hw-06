@@ -24,6 +24,6 @@ const elementsList = createListElement(ingredients);
 
 ingredientsListRef.append(...elementsList);
 
-console.log(ingredientsListRef);
+
 
 
